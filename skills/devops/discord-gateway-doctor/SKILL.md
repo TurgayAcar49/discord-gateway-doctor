@@ -2,7 +2,7 @@
 name: discord-gateway-doctor
 description: Diagnose a silent or offline Hermes Discord gateway.
 version: 0.1.0
-author: Set your name before publishing
+author: Mining (TurgayAcar49), Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
 metadata:
