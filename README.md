@@ -33,9 +33,9 @@ The script uses only the Python standard library.
 
 ## Discord post
 
-After the tests pass, post this in `#plugins-skills-and-skins` with the repo link:
+After the tests pass, post this in `#plugins-skills-and-skins`:
 
-> Community skill: discord-gateway-doctor, by Mining (https://github.com/TurgayAcar49, Discord Alyan4916). It classifies a Hermes Discord gateway that is offline or silent (missing token, fail-closed allowlist, privileged intents, username-vs-snowflake allowlists) without printing DISCORD_BOT_TOKEN. Optional `--live` checks the token and Message Content / Server Members flags against Discord. Install by copying `skills/devops/discord-gateway-doctor` into `~/.hermes/skills/devops/`.
+> Community skill: discord-gateway-doctor, by Mining (https://github.com/TurgayAcar49/discord-gateway-doctor, Discord Alyan4916). It classifies a Hermes Discord gateway that is offline or silent (missing token, fail-closed allowlist, privileged intents, username-vs-snowflake allowlists) without printing DISCORD_BOT_TOKEN. Optional `--live` checks the token and Message Content / Server Members flags against Discord. Install by copying `skills/devops/discord-gateway-doctor` into `~/.hermes/skills/devops/`.
 
 ## Layout
 
